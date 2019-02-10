@@ -1,0 +1,66 @@
+body {
+  background-color: #000;
+  color: rgb(190, 190, 190);
+  font-size: 18px;
+  line-height: 1.3;
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 380px;
+  margin: 0 auto;
+}
+
+.header-poczta {
+  border: 1px solid aquamarine;
+  padding: 10px;
+  color: rgb(115, 122, 167);
+  text-align: center;
+}
+
+.header-poczta h1 {
+  margin: 10px 0;
+  color: aquamarine;
+}
+
+.header-poczta_paragraf {
+  font-size: 1.3em;
+  margin: 0;
+}
+
+.section {
+  padding: 20px 10px;
+}
+
+.time {
+  font-family: "Major Mono Display", monospace;
+  font-size: 0.9em;
+  color: aquamarine;
+}
+
+.btn {
+  background-color: rgb(87, 103, 196);
+  color: #fff;
+  border: transparent;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.stan-kolejki {
+  color: rgb(89, 223, 160);
+  margin: 10px 0;
+}
+
+.sprawy-zalatwione {
+  color: rgb(216, 214, 224);
+}
+#listaSprawZalatwionych {
+  padding: 0;
+}
+.section-zalatwione h2 {
+  color: aquamarine;
+}
+.number-color {
+  color: rgb(223, 93, 93);
+}
